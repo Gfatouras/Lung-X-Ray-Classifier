@@ -68,7 +68,8 @@ The CNN model was evaluated using the following metrics:
 ![CNN_Datagen_Optimal_Confusion](https://github.com/user-attachments/assets/501db939-d61a-4704-a0b2-9cc3406486c3)
 ![CNN_Datagen_Optimal_ROC](https://github.com/user-attachments/assets/f74fe00d-c62d-49c0-af12-34243a80b3a4)
 CNN layer structure:
-![Sequential_CNN_Datagen_Optimal_Structure](https://github.com/user-attachments/assets/2f305055-44e7-48ca-9e9f-01aba3a314d1)
+
+![Sequential_CNN_Datagen_Optimal_Structure](https://github.com/user-attachments/assets/f736a020-4042-4009-beb7-fe796526e8e9)
 
 ## **Conclusion**
 
