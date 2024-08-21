@@ -1,7 +1,6 @@
 # Lung Disease X-ray Classification using Convolutional Neural Networks
 ![COVID-28](https://github.com/user-attachments/assets/63ae7808-6d32-49b6-9bb9-ca552bea93da)
 ![Viral Pneumonia-12](https://github.com/user-attachments/assets/e6fd44d9-4239-4978-9dd4-e7c5c38e3a69)
-![Normal-34](https://github.com/user-attachments/assets/5140389b-b5e3-4ccb-93c3-5926a86b2071)
 
 ## Overview
 
