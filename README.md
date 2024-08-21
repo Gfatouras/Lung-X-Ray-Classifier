@@ -9,7 +9,7 @@ This repository contains the code and data used for classifying lung X-ray image
 
 ## Business Problem
 
-By analyzing these images with deep learning models, we aim to support diagnostic processes, improve the accuracy of medical image classification, and provide diagnosis support.
+By analyzing these images with machine learning models, we aim to support diagnostic processes, improve the accuracy of medical image classification, and provide diagnosis support.
 
 ### Table of Contents
 
@@ -74,7 +74,7 @@ CNN layer structure:
 
 ### **CNN Model Performance**
 
-The CNN model performed the best, achieving a test accuracy of 86%. The model's similar F1 scores and smooth convergence of loss values indicate that there is no overfitting present. Among the different classifications, viral pneumonia was the easiest to identify, with the best classification rate of 97%.
+The CNN model with data augmentation performed the best, achieving a test accuracy of 86%. The model's similar F1 scores and smooth convergence of loss values indicate that there is no overfitting present. Among the different classifications, viral pneumonia was the easiest to identify, with the best classification rate of 97%.
 
 This model can be utilized by healthcare professionals to assist in:
 
@@ -92,7 +92,7 @@ This model can be utilized by healthcare professionals to assist in:
 
 While the CNN model performed well, there are still ways to improve it:
 
-- **Additional Training Data**: More normal and COVID-19 images should be included in training.
+- **Additional Training Data**: More normal and COVID-19 images should be included in training to improve the accuracy between thest two classes.
 - **Pre-trained Models**: Utilizing pre-trained models could increase the accuracy rate to around 91%.
 - **Broader Disease Detection**: Include different lung diseases to allow the model to detect additional illnesses, as current diseases like bronchitis might slip detection.
 
