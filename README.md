@@ -81,6 +81,7 @@ CNN layer structure:
 The CNN model with data augmentation performed the best, achieving a test accuracy of 86%. The model's similar F1 scores and smooth convergence of loss values indicate that there is no overfitting present. Among the different classifications, viral pneumonia was the easiest to identify, with the best classification rate of 97%. This model used MaxPooling layers which were set to 3x3 pixels. These small grids were able to scan through each image, and identify features in a 2D manner, rather than the 1D method for the baseline model. This added more complex layers to the model, which greatly aided in the accuracy. Additional information for how MaxPooling can be utilized in machine learning algorithms can be found below:
 
 Gholamalinezhad, H., & Khosravi, H. (2020). Pooling methods in deep neural networks, a review. https://www.semanticscholar.org/paper/Pooling-Methods-in-Deep-Neural-Networks%2C-a-Review-Gholamalinezhad-Khosravi/8f66ed7f0e2089b4f5219c782687bea368c7f4ee
+
 Full pdf version: https://arxiv.org/pdf/2009.07485
 
 This model can be utilized by healthcare professionals to assist in:
