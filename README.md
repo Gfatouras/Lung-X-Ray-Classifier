@@ -6,7 +6,7 @@
 
 This repository contains the code and data used for classifying lung X-ray images to identify COVID-19, pneumonia, and normal cases. The [dataset](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) was obtained from Kaggle and includes thousands of X-ray images along with corresponding mask images. A baseline model using a sequential neural network was created first, followed by a Convolutional Neural Network (CNN) that achieved a test accuracy of 86%.
 
-A separate test notebook is also included `test.ipynb`. This notebook uses samples of X-ray images along with their masks located in `test/`, and overlays a prediction for each image, which is stored in `test_results/`. Some output examples are shown above.
+A separate test notebook is also included `test.ipynb`. This notebook is a deployment that uses samples of X-ray images along with their masks located in `test/`, and overlays a prediction for each image, which is stored in `test_results/`. Some output examples are shown above.
 # Important Note:
 If you get OOM errors, or tensorflow errors, simply restart the program. This is most likley due to insufficient memory. The models and dataframes are saved locally after they are created.
 
