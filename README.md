@@ -61,7 +61,7 @@ Five models were developed:
 
 ## Evaluation
 
-The CNN model was evaluated using the following metrics:
+The final CNN model was evaluated using the following metrics:
 
 - **Accuracy Metrics**
 - **Confusion Matrices**
