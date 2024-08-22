@@ -46,7 +46,7 @@ The masks helped in focusing on the relevant lung areas, enhancing the model's a
 
 Five models were developed:
 
-- **Baseline Model:** A sequential neural network (NN) used as a starting point, which achieved an accuracy of 77%.
+- **Baseline Model:** A sequential neural network (NN) used as a starting point, which achieved an accuracy of 76%.
 
 - **Model with ReduceLROnPlateau:** A Sequential NN model with the ReduceLROnPlateau callback, which improved the accuracy to 81%.
 
